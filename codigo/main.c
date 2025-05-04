@@ -25,4 +25,4 @@ echo // Codigo do Jogo
         }
 
     return 0;
-}
+}// Função de iniciar o jogo
